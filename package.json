@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/cellprobe/e118-iin-list#readme",
   "dependencies": {
-    "fp-ts": "^2.5.4"
+    "fp-ts": "^2.6.0"
   },
   "devDependencies": {
     "@bifravst/code-style": "^7.1.10",
